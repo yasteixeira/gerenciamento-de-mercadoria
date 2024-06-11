@@ -1,4 +1,4 @@
-# gerenciamento-de-mercadoria
+# Gerenciamento de Mercadoria
 
 Gabriela Zala Coutinho Arruda
 
